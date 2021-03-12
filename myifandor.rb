@@ -1,0 +1,1 @@
+def whatever (rank, name, credentials)
